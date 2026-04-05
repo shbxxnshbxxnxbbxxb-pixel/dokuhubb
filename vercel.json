@@ -7,7 +7,7 @@
   "rewrites": [
     {
       "source": "/(.*)",
-      "dest": "main.py"
+      "destination": "main.py"
     }
   ]
 }
